@@ -8,16 +8,6 @@
 
 config_version=4
 
-_global_script_classes=[ {
-"base": "MeshInstance",
-"class": "Decal",
-"language": "GDScript",
-"path": "res://decalco/src/Decal.gd"
-} ]
-_global_script_class_icons={
-"Decal": "res://decalco/icons/icon_decal.svg"
-}
-
 [application]
 
 config/name="Decal"
